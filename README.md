@@ -1,5 +1,3 @@
 # libro-git.
 
 asasasas
-
-EZE
